@@ -1,0 +1,7 @@
+# Setup Instructions
+
+1. Clone the repository:
+   git clone https://github.com/amnaimurrashid/git-practice-naimur.git
+
+2. Run the program:
+   python src/main.py
