@@ -1,0 +1,4 @@
+import datetime
+
+print("Name: A M Naimur Rashid")
+print("Today's Date:", datetime.date.today())
